@@ -20,6 +20,7 @@ namespace Capture_DOT_Alpha
                 this.Hide();
                 System.Threading.Thread.Sleep(500);
                 SendKeys.Send("{PRTSC}");
+                pictureBox.Image?.Dispose();
                 Image myImage = Clipboard.GetImage();
                 pictureBox.Image = myImage;
                 this.Show();
@@ -27,6 +28,7 @@ namespace Capture_DOT_Alpha
             else
             {
                 SendKeys.Send("{PRTSC}");
+                pictureBox.Image?.Dispose();
                 Image myImage = Clipboard.GetImage();
                 pictureBox.Image = myImage;
                 this.Hide();
