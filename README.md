@@ -2,7 +2,7 @@
 
 ## Latest news
 
-First official v1.0.0-Alpha release this weekend. Stay tuned!
+***First official v1.0.0-Alpha release this weekend. Stay tuned!***
 
 ## Introduction
 
