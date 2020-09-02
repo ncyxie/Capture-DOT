@@ -27,7 +27,7 @@ strip menu above, or click on blue **Issues** text.
 
 ## FAQ
 
-*N/A, waiting for more users interests and questions about application.
+*N/A, waiting for more users interests and questions about application.*
 
 ## Thanks to
 
