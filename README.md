@@ -13,6 +13,9 @@ Alpha version, might be very unstable or contain lots of bugs, but includes newe
 
 [Download Capture DOT Alpha](https://github.com/ncyxie/Capture-DOT-Alpha/releases/)
 
+*Note: Alpha version might be very unstable or contain lots of bugs. Please let me know if you
+find any kind of bug or issue.*
+
 ## Screenshots
 
 *Screenshots will appear when first official stable release will be released.*
