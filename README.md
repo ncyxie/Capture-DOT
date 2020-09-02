@@ -1,3 +1,5 @@
+*Last updated: 2020/09/02*
+
 # Capture DOT Alpha
 
 ## Latest news
