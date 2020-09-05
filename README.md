@@ -4,7 +4,7 @@
 
 ## Latest news
 
-***First official v1.0.0-Alpha release this weekend. Stay tuned!***
+***tomorrow, 2020/09/06.***
 
 ## Introduction
 
