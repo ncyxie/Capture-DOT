@@ -1,10 +1,10 @@
-*Last updated: 2020/09/02*
+*Last updated: 2020/09/06*
 
 # Capture DOT Alpha
 
 ## Latest news
 
-***tomorrow, 2020/09/06.***
+***today, 2020/09/06.***
 
 ## Introduction
 
