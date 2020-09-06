@@ -4,7 +4,7 @@
 
 ## Latest news
 
-***today, 2020/09/06.***
+***Capture DOT v1.0.0-Alpha has been released. Download it now!***
 
 ## Introduction
 
