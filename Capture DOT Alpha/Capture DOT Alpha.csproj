@@ -5,6 +5,11 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <RootNamespace>Capture_DOT_Alpha</RootNamespace>
     <UseWindowsForms>true</UseWindowsForms>
+    <Version>1.0.0-Alpha</Version>
+    <Authors>ncyxie</Authors>
+    <Company>ncyxie</Company>
+    <Description>Screenshot capturing software. 
+One, two, three and your screenshot is ready.</Description>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">

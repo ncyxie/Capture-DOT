@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capture DOT Alpha", "Capture DOT Alpha\Capture DOT Alpha.csproj", "{2CF074D0-D28F-4604-8C37-DC51EB9C5A2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capture DOT Alpha", "Capture DOT Alpha\Capture DOT Alpha.csproj", "{2CF074D0-D28F-4604-8C37-DC51EB9C5A2B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{02353E6A-04CB-44AD-B5F5-41CDCAD13733}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,8 @@ Global
 		{2CF074D0-D28F-4604-8C37-DC51EB9C5A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CF074D0-D28F-4604-8C37-DC51EB9C5A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CF074D0-D28F-4604-8C37-DC51EB9C5A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02353E6A-04CB-44AD-B5F5-41CDCAD13733}.Debug|Any CPU.ActiveCfg = Debug
+		{02353E6A-04CB-44AD-B5F5-41CDCAD13733}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

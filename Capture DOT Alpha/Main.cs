@@ -18,7 +18,7 @@ namespace Capture_DOT_Alpha
             if (hideWindow.Checked == true)
             {
                 this.Hide();
-                System.Threading.Thread.Sleep(500);
+                System.Threading.Thread.Sleep(750);
                 SendKeys.Send("{PRTSC}");
                 pictureBox.Image?.Dispose();
                 Image myImage = Clipboard.GetImage();
@@ -32,14 +32,13 @@ namespace Capture_DOT_Alpha
                 Image myImage = Clipboard.GetImage();
                 pictureBox.Image = myImage;
                 this.Hide();
-                System.Threading.Thread.Sleep(500);
+                System.Threading.Thread.Sleep(750);
                 this.Show();
             }
         }
 
         private void save_Click(object sender, EventArgs e)
         {
-
             SaveFileDialog f = new SaveFileDialog();
             Image myImage = Clipboard.GetImage();
             pictureBox.Image = myImage;
@@ -49,6 +48,14 @@ namespace Capture_DOT_Alpha
             if (f.ShowDialog() == DialogResult.OK)
             {
                 myImage.Save(f.FileName);
+            }
+        }
+
+        private void about_Click(object sender, EventArgs e)
+        {
+            using (About frm = new About())
+            {
+                frm.ShowDialog();
             }
         }
     }
