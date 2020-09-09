@@ -6,6 +6,8 @@
 
 Current capture code is kinda buggy. Expect some rework soon!
 
+By the way, PNG support will be added too.
+
 ## Introduction
 
 Capture DOT Alpha is screenshot capturing software. One, two, three and your screenshot is ready.
