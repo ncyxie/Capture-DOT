@@ -5,7 +5,7 @@
 ## Latest news
 
 Capture code reworked, fixed most capture bugs, fixed saving crash, added png support, added dark & light mode.
-ETA (approx.): tomorrow, 2020/09/12.
+ETA (approx.): tomorrow, 12/09/2020.
 
 ## Introduction
 
