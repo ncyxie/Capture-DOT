@@ -4,9 +4,8 @@
 
 ## Latest news
 
-Current capture code is kinda buggy. Expect some rework soon!
-
-By the way, PNG support will be added too.
+Capture code reworked, fixed most capture bugs, fixed saving crash, added png support, added dark & light mode.
+ETA (approx.): tomorrow, 2020/09/12.
 
 ## Introduction
 
