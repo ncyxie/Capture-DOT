@@ -1,10 +1,11 @@
-*Last updated: 2020/09/06*
+*Last updated: 2020/09/11*
 
 # Capture DOT Alpha
 
 ## Latest news
 
-***today, 2020/09/06.***
+Capture code reworked, fixed most capture bugs, fixed saving crash, added png support, added dark & light mode.
+ETA (approx.): tomorrow, 12/09/2020.
 
 ## Introduction
 
