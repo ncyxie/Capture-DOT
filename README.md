@@ -17,7 +17,7 @@ Alpha version, might be very unstable or contain lots of bugs, but includes newe
 
 [Download Capture DOT Alpha](https://github.com/ncyxie/Capture-DOT-Alpha/releases/)
 
-Note: Alpha version type applications usually very unstable, unfinished or contain lots of bugs, but includes newest features. If you find any kind of bugs or issues which are not displayed, please let me know.
+*Note: Alpha version type applications usually very unstable, unfinished or contain lots of bugs, but includes newest features. If you find any kind of bugs or issues which are not displayed, please let me know.*
 
 ## Screenshots
 
