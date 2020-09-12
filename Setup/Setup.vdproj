@@ -37,6 +37,22 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.7.2"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.7.2 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.7.2"
+                    }
+                }
+            }
         }
         "Release"
         {
@@ -172,19 +188,19 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Capture DOT Alpha"
-        "ProductCode" = "8:{1C6B0BFA-3DB6-49DB-89A4-E173B2E64B36}"
-        "PackageCode" = "8:{A44C910B-8D79-4341-862D-9FE0D53BCEB2}"
+        "ProductCode" = "8:{94885855-69E8-4173-A583-A768FFB877A6}"
+        "PackageCode" = "8:{6BBFF1ED-8A08-4882-B958-C57788BA9A4E}"
         "UpgradeCode" = "8:{8E9A9716-C72C-465E-B39E-C8A403859159}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:TRUE"
-        "ProductVersion" = "8:1.0.0"
+        "ProductVersion" = "8:1.0.0-Alpha.2"
         "Manufacturer" = "8:ncyxie"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
-        "Title" = "8:Capture DOT v1.0.0-Alpha Setup"
+        "Title" = "8:Capture DOT v1.0.0-Alpha.2 Setup"
         "Subject" = "8:"
         "ARPCONTACT" = "8:ncyxie"
         "Keywords" = "8:"

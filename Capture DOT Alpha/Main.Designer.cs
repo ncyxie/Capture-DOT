@@ -10,7 +10,8 @@
         /// <summary>
         ///  Clean up any resources being used.
         /// </summary>
-        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        /// <param name="disposing">true if managed resources should be 
+        /// d; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -33,6 +34,8 @@
             this.save = new System.Windows.Forms.Button();
             this.hideWindow = new System.Windows.Forms.CheckBox();
             this.about = new System.Windows.Forms.Button();
+            this.darkMode = new System.Windows.Forms.Button();
+            this.lightMode = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox)).BeginInit();
             this.SuspendLayout();
             // 
@@ -53,7 +56,7 @@
             | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox.Location = new System.Drawing.Point(12, 12);
             this.pictureBox.Name = "pictureBox";
-            this.pictureBox.Size = new System.Drawing.Size(559, 359);
+            this.pictureBox.Size = new System.Drawing.Size(559, 360);
             this.pictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox.TabIndex = 2;
             this.pictureBox.TabStop = false;
@@ -88,11 +91,33 @@
             this.about.UseVisualStyleBackColor = true;
             this.about.Click += new System.EventHandler(this.about_Click);
             // 
+            // darkMode
+            // 
+            this.darkMode.Location = new System.Drawing.Point(482, 434);
+            this.darkMode.Name = "darkMode";
+            this.darkMode.Size = new System.Drawing.Size(89, 35);
+            this.darkMode.TabIndex = 0;
+            this.darkMode.Text = "Dark Mode";
+            this.darkMode.UseVisualStyleBackColor = true;
+            this.darkMode.Click += new System.EventHandler(this.darkMode_Click);
+            // 
+            // lightMode
+            // 
+            this.lightMode.Location = new System.Drawing.Point(387, 434);
+            this.lightMode.Name = "lightMode";
+            this.lightMode.Size = new System.Drawing.Size(89, 35);
+            this.lightMode.TabIndex = 0;
+            this.lightMode.Text = "Light Mode";
+            this.lightMode.UseVisualStyleBackColor = true;
+            this.lightMode.Click += new System.EventHandler(this.lightMode_Click);
+            // 
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(584, 441);
+            this.ClientSize = new System.Drawing.Size(584, 481);
+            this.Controls.Add(this.lightMode);
+            this.Controls.Add(this.darkMode);
             this.Controls.Add(this.about);
             this.Controls.Add(this.hideWindow);
             this.Controls.Add(this.save);
@@ -103,6 +128,8 @@
             this.Name = "Main";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Capture DOT";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Main_FormClosing);
+            this.Load += new System.EventHandler(this.Main_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -116,6 +143,8 @@
         private System.Windows.Forms.Button save;
         private System.Windows.Forms.CheckBox hideWindow;
         private System.Windows.Forms.Button about;
+        private System.Windows.Forms.Button darkMode;
+        private System.Windows.Forms.Button lightMode;
     }
 }
 

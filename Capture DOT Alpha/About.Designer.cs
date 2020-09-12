@@ -61,10 +61,10 @@
             this.info.Font = new System.Drawing.Font("MS Reference Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.info.Location = new System.Drawing.Point(13, 120);
             this.info.Name = "info";
-            this.info.Size = new System.Drawing.Size(159, 80);
+            this.info.Size = new System.Drawing.Size(164, 80);
             this.info.TabIndex = 2;
-            this.info.Text = "Version: v1.0.0-Alpha\r\nBuild date: 06/09/2020\r\nMade by ncyxie.\r\nThanks to XeZrunn" +
-    "er.\r\nThanks to zero9178.\r\n";
+            this.info.Text = "Version: v1.0.0-Alpha.2\r\nBuild date: N/A\r\nMade by ncyxie.\r\nThanks to XeZrunner.\r\n" +
+    "Thanks to zero9178.\r\n";
             // 
             // develop
             // 
