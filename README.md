@@ -6,7 +6,7 @@
 
 **CAPTURE DOT V1.0.0-ALPHA.2 UPDATE IS OFFICIALY OUT NOW!**
 
-> ***https://github.com/ncyxie/Notepad-DOT/releases/***
+> ***https://github.com/ncyxie/Capture-DOT/releases/***
 
 ## Introduction
 
