@@ -1,11 +1,12 @@
-*Last updated: 2020/09/11*
+*Last updated: 2020/09/12*
 
 # Capture DOT Alpha
 
 ## Latest news
 
-Capture code reworked, fixed most capture bugs, fixed saving crash, added png support, added dark & light mode.
-ETA (approx.): tomorrow, 12/09/2020.
+**CAPTURE DOT V1.0.0-ALPHA.2 UPDATE IS OFFICIALY OUT NOW!**
+
+> ***https://github.com/ncyxie/Notepad-DOT/releases/***
 
 ## Introduction
 
