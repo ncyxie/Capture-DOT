@@ -7,7 +7,6 @@
 **CAPTURE DOT V1.0.0-ALPHA.2 UPDATE IS OFFICIALY OUT NOW!**
 
 > ***https://github.com/ncyxie/Capture-DOT-Alpha/releases/***
-
 **--**
 
 By the way, I think this application is stable enough for beta version, so next release may be a Beta release. :)
