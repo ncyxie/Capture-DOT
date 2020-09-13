@@ -10,7 +10,7 @@
 
 **--**
 
-I think this application is stable enough for beta version, so next release may be a Beta release. :)
+By the way, I think this application is stable enough for beta version, so next release may be a Beta release. :)
 
 ## Introduction
 
