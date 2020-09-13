@@ -8,7 +8,8 @@
 
 > ***https://github.com/ncyxie/Capture-DOT-Alpha/releases/***
 
---
+**--**
+
 I think this application is stable enough for beta version, so next release may be a Beta release. :)
 
 ## Introduction
