@@ -32,6 +32,11 @@ Alpha version, might be very unstable or contain lots of bugs, but includes newe
 Since you are here, you just need to enter [Issues](https://github.com/ncyxie/Notepad-Dot/issues/) page in
 strip menu above, or click on blue **Issues** text.
 
+## Updates
+
+You can expect me to publish application updates at Friday, Saturday or Sunday. Normally, other days I am not publishing application updates.
+Also, notice that, before updating application, delete it and then you are good to go to install updated application version.
+
 ## FAQ
 
 *N/A, waiting for more users interests and questions about application.*
