@@ -1,4 +1,4 @@
-*Last updated: 2020/09/15*
+*Last updated: 2020/09/18*
 
 # Capture DOT Alpha
 
