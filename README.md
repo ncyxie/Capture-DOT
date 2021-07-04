@@ -1,10 +1,10 @@
-*Last updated: 2020/09/21*
+*Last time information was updated: 04/07/2021*
 
 # Capture DOT Alpha
 
 ## Latest news
 
-I think this application is stable enough for beta version, so next release may be a Beta release. :)
+**Capture-DOT-Alpha** project is discontinued.
 
 ## Introduction
 
