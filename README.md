@@ -4,11 +4,11 @@
 
 ## Latest news
 
-**Capture-DOT-Alpha** project is **discontinued**.
+Project **Capture-DOT-Alpha** is **discontinued**.
 
 ## Introduction
 
-Capture DOT Alpha is screenshot capturing software. One, two, three and your screenshot is ready.
+Capture DOT Alpha is a screenshot capturing software. One, two, three and your screenshot is ready.
 Alpha version, might be very unstable or contain lots of bugs, but includes newest features.
 
 ## Download
