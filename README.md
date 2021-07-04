@@ -4,7 +4,7 @@
 
 ## Latest news
 
-**Capture-DOT-Alpha** project is discontinued.
+**Capture-DOT-Alpha** project is **discontinued**.
 
 ## Introduction
 
