@@ -14,7 +14,7 @@
 
 ## Introduction
 
-Capture DOT Alpha is a screenshot capturing software. One, two, three and your screenshot is done.
+Capture DOT is a screenshot capturing software. One, two, three and your screenshot is done.
 
 ## Download
 
