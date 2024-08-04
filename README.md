@@ -18,7 +18,7 @@ Capture DOT is a screenshot capturing software. One, two, three and your screens
 
 ## Download
 
-[Download Capture DOT](https://github.com/ncyxie/Capture-DOT/releases/)
+**[Download Capture DOT](https://github.com/ncyxie/Capture-DOT/releases/)**
 
 ## Bug reports
 
